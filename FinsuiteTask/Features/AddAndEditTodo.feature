@@ -13,7 +13,7 @@ Scenario: Add A Task to todo list
 	And i entered text
 	Then todo should be created"
 
-	Scenario: Edit a task
+Scenario: Edit a task
 	And i selected already created to do
 	And i changed the todo values
 	Then Todo should be updated with changes
