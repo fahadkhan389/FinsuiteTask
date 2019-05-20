@@ -1,8 +1,7 @@
-﻿Feature: AddHorseBetting
-	As online Punter
-	I should be able to add horse bet to Bet slip 
-	after adding stake	
-
+﻿Feature: Create Tdo
+	As online user
+	I should be able to add and Edit to do 
+	
 	Background: 
 	Given i have opened a FireFox browser
 	And i am on Todo MVC Website
